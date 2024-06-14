@@ -1,4 +1,4 @@
-package testutils
+package testUtils
 
 func Contains(a []string, x string) bool {
 	for _, s := range a {
